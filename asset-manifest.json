@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProIntt/static/css/main.adb1cd30.css",
+    "main.js": "/ProIntt/static/js/main.e19aa799.js",
+    "static/js/453.2accbebf.chunk.js": "/ProIntt/static/js/453.2accbebf.chunk.js",
+    "index.html": "/ProIntt/index.html",
+    "main.adb1cd30.css.map": "/ProIntt/static/css/main.adb1cd30.css.map",
+    "main.e19aa799.js.map": "/ProIntt/static/js/main.e19aa799.js.map",
+    "453.2accbebf.chunk.js.map": "/ProIntt/static/js/453.2accbebf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adb1cd30.css",
+    "static/js/main.e19aa799.js"
+  ]
+}
